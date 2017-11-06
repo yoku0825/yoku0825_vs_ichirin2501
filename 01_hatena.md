@@ -20,3 +20,5 @@
 - JOINのアルゴリズムとか他のやつほしくないですか？
 - 再帰QueryとかWindow関数使う？
 
+# みんなが知りたいこと
+- GoogleのSpannerみたいなNewSQLについてどう考えているか
