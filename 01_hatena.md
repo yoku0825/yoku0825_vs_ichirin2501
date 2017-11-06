@@ -15,7 +15,7 @@
 - utf8からutf8mb4binの移行
 - InnoDB以外のストレージエンジンの有効性
 - MySQLとNoSQLの連携
-  - PostgreSQLのFDWみたいなやつ
+  - PostgreSQLのFDWみたいなやつ
 - B+tree以外のINDEXほしくないですか？
 - JOINのアルゴリズムとか他のやつほしくないですか？
 - 再帰QueryとかWindow関数使う？
