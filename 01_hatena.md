@@ -25,3 +25,4 @@
 - サーバレスアーキテクチャに対するRDBMSのコネクション飽和問題について
   - http://blog.yuuk.io/entry/architecture-of-database-connection
 - データベースのバックアップ戦略
+- count(*) 辛い
