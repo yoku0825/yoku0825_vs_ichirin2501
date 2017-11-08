@@ -37,3 +37,5 @@
   - http://blog.yuuk.io/entry/architecture-of-database-connection
 - データベースのバックアップ戦略
 - count(*) 辛い
+- マルチソースとマルチマスタ
+
